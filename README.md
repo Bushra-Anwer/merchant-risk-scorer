@@ -19,4 +19,4 @@ Pandas, matplotlib, jupyter
 
 
 ## Status
-- **Phase 1**: Project set up - *in progress*
+- **Phase 1**: Project set up - Complete
