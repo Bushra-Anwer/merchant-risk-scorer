@@ -9,6 +9,7 @@ An operational risk analyst/equivalent whose role entails monitoring merchant ri
 
 ## Dataset
 Olist Brazilian E-Commerce dataset (Kaggle): real, anonymised marketplace data.
+Download: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Strategy 
 To be defined after inspecting the data
