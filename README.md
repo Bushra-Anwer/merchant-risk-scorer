@@ -20,3 +20,4 @@ Pandas, matplotlib, jupyter
 
 ## Status
 - **Phase 1**: Project set up - Complete
+- **Phase 2**: Exploring Dataset + Cleaning - In progress
